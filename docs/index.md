@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Zoom Freeze
+A super simple to use tool that freezes yourself on other's Zoom.
 
-You can use the [editor on GitHub](https://github.com/gadhagod/Zoom-Freeze-App/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Why?
+We have all been there. You have been called on by your teacher or boss, and you were off daydreaming about something better than being in a boring meeting. You are forced to answer something dumb, and everyone instantly knows your head was in the clouds.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Now, you no longer have to suffer! With <i>Zoom Freeze</i>, you can instantly make your video streaming stop on other's devices. People will think, "oh no, poor guy. His big presentation has been messed up by his horrible internet!". No one will know what really happened!
 
-### Markdown
+**Note**: This only works on macs.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Installation
+Something something.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gadhagod/Zoom-Freeze-App/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Usage
+Click on the application icon in your finder. No window will open up, but the application will be activated. 
+After joining a meeting, hit <kbd>control</kbd> and <kbd>J</kbd>. This will freeze your zoom. To unfreeze it, just hit the same keys.
