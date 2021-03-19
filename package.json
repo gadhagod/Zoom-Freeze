@@ -1,14 +1,42 @@
 {
   "name": "zoom-freeze",
+  "productName": "Zoom Freeze",
   "version": "1.0.0",
-  "description": "",
+  "description": "Freeze your zoom to get out of sticky situations.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "Aarav Borthakur",
   "license": "MIT",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "electron-builder": "^22.10.5",
     "electron": "^12.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gadhagod/Zoom-Freeze"
+  },
+  "build": {
+    "appId": "zoom-freeze",
+    "mac": {
+      "category": "public.app-category.utilities"
+    },
+    "dmg": {
+      "contents": [
+        {
+          "x": 110,
+          "y": 150
+        },
+        {
+          "x": 240,
+          "y": 150,
+          "type": "link",
+          "path": "/Applications"
+        }
+      ]
+    }
+  },
+  "scripts": {
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
   }
 }

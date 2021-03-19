@@ -9,8 +9,8 @@ Now, you no longer have to suffer! With <i>Zoom Freeze</i>, you can instantly ma
 **Note**: This only works on macs.
 
 ## Installation
-Something something.
+You can install this app by clicking [here](). After it's downloaded, you'll be prompted to drag the app to your applications folder. After you have completed that, it's installed! You can spotlight search "Zoom Freeze" to open the app. No window will popup, but the app will bea activated.
 
 ## Usage
-Click on the application icon in your finder. No window will open up, but the application will be activated. 
+Open Zoom Freeze. No window will open up, but the application will be activated. 
 After joining a meeting, hit <kbd>control</kbd> and <kbd>J</kbd>. This will freeze your zoom. To unfreeze it, just hit the same keys.
